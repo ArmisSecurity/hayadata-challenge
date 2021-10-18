@@ -1,11 +1,11 @@
 # HayaData Armis Challenge
 
-### Run the notebook
+### Run jupyter
 ```shell
 docker-compose up
 ````
 
-### Open the notebook
+### Open jupyter
 Go to http://127.0.0.1:8888/?token=armis to open the notebook
 
 ### Solve the challenges

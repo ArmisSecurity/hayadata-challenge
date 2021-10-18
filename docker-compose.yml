@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  spark-jupyter:
+    image: jupyter/all-spark-notebook
+    environment:
+      JUPYTER_TOKEN: "armis"
+    ports:
+      - "8888:8888"
+    volumes:
+      - ${PWD}/challenges:/home/jovyan/challenges

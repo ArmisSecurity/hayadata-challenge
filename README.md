@@ -12,7 +12,7 @@ Go to http://127.0.0.1:8888/?token=armis to open the notebook
 Resolve the challenges in the `.ipynb` files.
 
 ### Submit the challenges
-Submit your solution to `adi.kenett@armis.com`
+Submit your solution to `bigdatastar@armis.com`
 
 ### Claim your reward
 Reach the Armis booth to claim your awesome reward!
